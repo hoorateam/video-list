@@ -27,9 +27,15 @@
     "title7": "",
     "title8": "",
     "title9": "",
-    "list1": "فعال",
-    "list2": "",
-    "list3": ""
+    "list1": "",
+    "list2": "فعال",
+    "list3": "",
+    "list4": "",
+    "list5": "",
+    "list6": "",
+    "list7": "",
+    "list8": "",
+    "list9": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -61,7 +67,13 @@
     "title9": "",
     "list1": "",
     "list2": "",
-    "list3": ""
+    "list3": "",
+    "list4": "",
+    "list5": "",
+    "list6": "",
+    "list7": "",
+    "list8": "",
+    "list9": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -93,6 +105,12 @@
     "title9": "",
     "list1": "",
     "list2": "",
-    "list3": ""
+    "list3": "",
+    "list4": "",
+    "list5": "",
+    "list6": "",
+    "list7": "",
+    "list8": "",
+    "list9": ""
   }
 ]
