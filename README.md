@@ -18,7 +18,7 @@
     "link video8": "",
     "icon9": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video9": "https://aspb19.cdn.asset.aparat.com/aparat-video/15a726b5f109f6fe215c4d34d84b289823756054-1080p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cC",
-    "title": "",
+    "title": "تست",
     "title2": "",
     "title3": "",
     "title4": "",
