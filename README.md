@@ -2,7 +2,7 @@
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video": "https://aspb19.cdn.asset.aparat.com/aparat-video/15a726b5f109f6fe215c4d34d84b289823756054-1080p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cC",
-    "icon2": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
+    "icon2": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video2": "",
     "icon3": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video3": "",
@@ -35,7 +35,16 @@
     "list6": "",
     "list7": "",
     "list8": "",
-    "list9": ""
+    "list9": "",
+    "pic1": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
+    "pic2": "",
+    "pic3": "",
+    "pic4": "",
+    "pic5": "",
+    "pic6": "",
+    "pic7": "",
+    "pic8": "",
+    "pic9": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -73,7 +82,16 @@
     "list6": "",
     "list7": "",
     "list8": "",
-    "list9": ""
+    "list9": "",
+    "pic1": "",
+    "pic2": "",
+    "pic3": "",
+    "pic4": "",
+    "pic5": "",
+    "pic6": "",
+    "pic7": "",
+    "pic8": "",
+    "pic9": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -111,6 +129,15 @@
     "list6": "",
     "list7": "",
     "list8": "",
-    "list9": ""
+    "list9": "",
+    "pic1": "",
+    "pic2": "",
+    "pic3": "",
+    "pic4": "",
+    "pic5": "",
+    "pic6": "",
+    "pic7": "",
+    "pic8": "",
+    "pic9": ""
   }
 ]
