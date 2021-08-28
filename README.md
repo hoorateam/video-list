@@ -2,7 +2,7 @@
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video": "https://aspb19.cdn.asset.aparat.com/aparat-video/15a726b5f109f6fe215c4d34d84b289823756054-1080p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cC",
-    "icon2": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
+    "icon2": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video2": "",
     "icon3": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
     "link video3": "",
@@ -26,7 +26,10 @@
     "title6": "",
     "title7": "",
     "title8": "",
-    "title9": ""
+    "title9": "",
+    "list1": "فعال",
+    "list2": "",
+    "list3": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -55,7 +58,10 @@
     "title6": "",
     "title7": "",
     "title8": "",
-    "title9": ""
+    "title9": "",
+    "list1": "",
+    "list2": "",
+    "list3": ""
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
@@ -84,6 +90,9 @@
     "title6": "",
     "title7": "",
     "title8": "",
-    "title9": ""
+    "title9": "",
+    "list1": "",
+    "list2": "",
+    "list3": ""
   }
 ]
