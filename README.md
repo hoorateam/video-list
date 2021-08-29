@@ -53,7 +53,8 @@
     "titlle6": "",
     "titlle7": "",
     "titlle8": "",
-    "titlle9": ""
+    "titlle9": "",
+    "banner2": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg"
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
