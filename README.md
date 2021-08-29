@@ -54,7 +54,7 @@
     "titlle7": "",
     "titlle8": "",
     "titlle9": "",
-    "banner2": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg"
+    "banner2": "https://s4.uupload.ir/files/picsart_08-29-12.04.17_h827.png"
   },
   {
     "icon": "https://s4.uupload.ir/files/picsart_08-14-01.24.41_gcx.png",
