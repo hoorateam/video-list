@@ -37,7 +37,7 @@
     "list8": "",
     "list9": "",
     "pic1": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
-    "pic2": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
+    "pic2": "https://s4.uupload.ir/files/picsart_08-29-12.04.17_h827.png",
     "pic3": "https://s4.uupload.ir/files/img_20210828_123705_695_3gyr.jpg",
     "pic4": "",
     "pic5": "",
